@@ -1,0 +1,15 @@
+<!-- templates/base/menu.html -->
+{% load static %}
+<div id="mySidebar" class="sidebar">
+    <button class="openbtn" onclick="openNav()">☰ Menu</button>  
+</div>
+
+<!-- Menu lateral -->
+<div id="menu" class="sidenav">
+    <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+    <a href="#">Início</a>
+    <a href="#">Sobre</a>
+    <a href="#">Serviços</a>
+    <a href="#">Contato</a>
+    <a href="{% url 'raml' %}">RAML</a>
+</div>

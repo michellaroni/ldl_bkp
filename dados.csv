@@ -1,0 +1,601 @@
+﻿ano;volume;tema;secao;autor;titulo;genero_textual;palavra_chave1;palavra_chave2;palavra_chave3;sexo_autor
+1926;4;não há;não há;Carlos Góes;16º Aniversário da Academia - Alocução proferida pelo presidente Carlos Góes em sessão extraordinária, no Theatro Municipal, a 26 de Dezembro de 1925;Alocução;Aniversário AML;Comemoração;\N;M
+1925;3;não há;não há;Carlos Góes;Um Apólogo pelo acadêmico Carlos Góes;Apólogo;Homem;cothurnos;\N;M
+1932;7;não há;não há;Equipe - Academia Mineira de Letras (AML);Comemoração de Goethe;Apresentação;Academia Mineira de Letras;Goethe;\N;M
+1933;11;não há;não há;Lindolfo Gomes;Nove mil  dias com João Ribeiro, por Lindolfo Gomes;Artigo de Opinião;João Ribeiro;Joaquim Ribeiro;\N;M
+1936;18;Apontamentos para a História das Artes, das Sciencias e das Letras de Minas Gerais;Não tem;Aníbal Matos;Patrimônio Artistico de Minas Geraes;Artigo de Opinião;preservação;\N;\N;M
+1934;14;não há;não há;Heitor Guimarães;A coisa literaria (Da Gazeta Comercial, s/s);Artigo de opinião;Aníbal Matos;peça;\N;M
+1934;14;não há;não há;Almeida Magalhães;Nobre terra immortal;Artigo de opinião;São João do Rio Pardo;Euclides da Cunha;\N;M
+1926;4;não há;não há;Carlos Góes;Suavidade da Língua Portuguesa no Brasil;Artigo de opinião;Língua portuguesa;Carlos Góes;\N;M
+1934;12;1ª parte - Comemorativo do 4º Cenetenário de José de Anchieta;Não tem;Antonio Simões;Bibliografia Anchieta;Bibliografia;Bibliografia;\N;\N;M
+1932;7;não há;não há;Sem autoria;Velhice e morte de Goethe;Biografia;Goethe;Weimar;Jornal Minas Gerais 22/03/1932;M
+1933;8;não há;não há;Sem autoria;D. Joaquim Silverio;Biografia;Silverio;Brasil;Jornal Minas Gerais 31/08/1933;M
+1933;11;não há;não há;Equipe - Academia Mineira de Letras (AML);Ramo Arantes;Biografia;Ramo Arantes;Poeta;\N;M
+1933;11;não há;não há;Aníbal Matos;Mestre Valentim da Fonseca e Silva, por Aníbal Matos;Biografia;Valentim;Luiz de Vasconcellos;\N;M
+1953;17;Não tem;Vários Assuntos;Augusto Fernandes de Azevedo;Abílio Velho Barreto;Biografia;acadêmico;\N;\N;M
+1922;1;não há;não há;Joaquim Silverio de Souza;Traços biográficos do dr. Joaquim Felicio dos Santos pelo acadêmico D. Joaquim Silverio de Souza;Biografia;Joaquim Felicio dos Santos;AML;\N;M
+1922;1;não há;não há;Lindolfo Gomes ;Traços biográficos de Aureliano Pimentel pelo acadêmico Lindolfo Gomes;Biografia;Aureliano Pimentel;Lindolfo Gomes;\N;M
+1934;13;Commemorativo do 4.º Centenário de José de Anchieta ;não há;Lopes Rodrigues;Anchieta, nascimento, vocação e morte;Biografia;Anchieta;catecismo;\N;M
+1934;13;Commemorativo do 4.º Centenário de José de Anchieta ;não há;Lopes Rodrigues;Anchieta Medico ou O Galeno Jesuitico do Brasil;Biografia;Galeno;Medicina;\N;M
+1925;3;não há;não há;Nelson de Senna ;Biografia de José Eloy Ottoni pelo acadêmico Nelson de Senna;Biografia ;José Eloy Ottoni;Biografia;\N;M
+1925;3;não há;não há;Albino Esteves;Biografia do Visconde de Araxá pelo acadêmico Albino Esteves;Biografia ;Visonde de Araxá;biografia;\N;M
+1925;3;não há;não há;Aldo Delfino;Biografia de Arthur França pelo acadêmico Aldo Delfino;Biografia ;Arthur França;Biografia;\N;M
+1925;3;não há;não há;Carmo Gama;Biografia de Xavier da Veiga pelo acadêmico Carmo Gama;Biografia ;Xavier da Veiga;biografia;\N;M
+1925;3;não há;não há;Olympio de Araujo;Perfil biográfico de Manoel Basílio Furtado pelo acadêmico Olympio de Araujo;Biografia ;Manoel Basílio Furtado;Biografia;\N;M
+1926;4;não há;não há;Dilermando Cruz;Bernardo Guimarães - Fragmento de sua biografia por Dilermando Cruz;Biografia;Fatos;Vida;\N;M
+1926;4;não há;não há;Eduardo de Menezes;Biografia do Conde de Prados  (Cadeira n. 17) - Pelo acadêmico Dr. Eduardo de Menezes;Biografia;Social;Política ;\N;M
+1926;4;não há;não há;Abilio Barreto;Estevam de Oliveira - Biografia pelo acadêmico Abilio Barreto em sessão de 12 de setembro de 1926;Biografia;Estevam de Oliveira;Biografia;\N;M
+1928;5;não há;não há;Revista do Archivo Publico Mineiro;Claudio Manoel da Costa;Biografia;Claudio Manuel;Poeta;\N;M
+1934;15;Não há;Não há;Equipe - Academia Mineira de Letras (AML);Professor Carlos Góes - Aspectos da sua vida e da sua obra;Biografia;Carlos Góes;\N;\N;M
+1928;5;não há;não há;Revista do Archivo Publico Mineiro;Notas para a biografa de D. Beatriz Francisca de Assis Brandão;Biografia;Poetiza;D. Beatriz;\N;M
+1955-1959;21;Não tem;Colaborações;Abílio Barreto;O primeiro possuidor e povoador das terras de Belo Horizonte;Biografia;João Leite da Silva Ortiz;Belo Horizonte;\N;M
+1928;5;não há;não há;Revista do Archivo Publico Mineiro;José Basilio da Gama;Biografia;José Basílio;Poema;\N;M
+1935;16;Não há;Não há;Raul d'Almeida Magalhães;Carlos Chagas;Biografia;Carlos Chagas;\N;\N;M
+1928;5;não há;não há;Gustavo Penna;Bernardo de Vasconcellos;Biografia;Bernardo ;Politica;\N;M
+1935;16;Não há;Não há;Autoria imprecisa;Visconde de Caeté;Biografia;Visconde de Caeté;\N;\N;M
+1928;5;não há;não há;Sandoval Campos e Amynthas Lobo;Notas para a biografia de José Maria Teixeira de Azevedo Junior;Biografia;Azevedo Junior;Jornalista;\N;M
+1935;16;Não há;Não há;Adalberto Mattos;O pintor Victor Meirelles ;Biografia;Victor Meirelles;\N;\N;M
+1928;5;não há;não há;Equipe - Academia Mineira de Letras (AML);Notas para a biografia do padre Mestre Corrêa de Almeida;Biografia;Padre;latinista emerito;\N;M
+1928;5;não há;não há;Sandoval Campos e Amynthas Lobo;Notas para biographia de Arthur Lobo;Biografia;Arthur Lobo;jornalista;\N;M
+1928;5;não há;não há;Nelson de Senna;Notas para a biographia de Lucindo Filho;Biografia;Lucindo Filho;poeta;\N;M
+1928;5;não há;não há;Nelson de Senna;Conselheiro Francisco de Paula Candido;Biografia;Paula Candido;medico;\N;M
+1932;6;Não há;Não há;Equipe - Academia Mineira de Letras (AML);Biografia dos Patronos;Biografia;Patronos;Academia Mineira de Letras;\N;M
+1932;7;não há;não há;"V. Muller; H. Knippnig; J. C. Nathan";Oficios ao presidente da Academia;Carta;Belo Horizonte;Goethe;\N;M
+1934;12;1ª parte - Comemorativo do 4º Cenetenário de José de Anchieta;Escritos e apontamentos sobre José de Anchieta ;José de Anchieta;Trecho de uma carta de Anchieta;Carta;Carta;\N;\N;M
+1954;20;Não tem;Vida Acadêmica;Augusto de Lima Júnior;Carta de A. Lima Junior a Salomão Vasconcelos;Carta;admissão;Salomão Vasconcelos;\N;M
+1954;20;Não tem;Asteriscos;C. Batista de Castro;O seu a seu dono - Carta;Carta;autoria;Antônio Augusto Campos da Cunha;\N;M
+1955-1959;21;Não tem;Vários Assuntos ;B. L. Garnier;Carta do editor Garnier ao romancista Bernardo Guimarães;Carta;Garnier;Bernardo Guimarães;\N;M
+1932;7;não há;não há;Lucio dos Santos;Conferencia do dr. Lucio dos Santos;Conferência;Goethe;Fausto;\N;M
+1933;8;não há;não há;Mario Mendes Campos;Ciclo de Helena;Conferência;poesia;poeta;\N;M
+1933;9;Não há;Não há;J. Guimarães Menegale;Saudade da Lua (conferência lida na Academia Mineira de Letras);Conferência;J. Guimarães Menegale;Conferência;\N;M
+1936;18;Apontamentos para a História das Artes, das Sciencias e das Letras de Minas Gerais;Homenageando artistas (Inauguração de uma placa de bronze, no Theatro Municipal, em homenagem ás artistas Adelina e Aurea Abranches);Lúcio dos Santos;O Theatro;Conferência;Grupo dos Badamécos;\N;\N;M
+1934;14;não há;não há;Mendes de Oliveira;Defesa nacional (Conferência pronunciada na campanha  pelo acadêmico Mendes de Oliveira, no dia 09 d ejunho [1934[);Conferência;defesa nacional;\N;\N;M
+1934;14;não há;não há;A. J. Sampaio;Protecção a natureza em face do turismo, da geografia humana e da economia política;Conferência; proteção ;natureza;\N;M
+1954;20;Não tem;Orações Acadêmicas;Gilberto de Alencar;Era uma vez...;Conferência;homenagem;Gilberto de Alencar;\N;M
+1926;4;não há;não há;Agripa de Vasconcelos;AURELIANO LESSA (Cadeira n. 3) - Conferência no Theatro Municipal, em sessão solene de 5 de Março de 1925, pelo acadêmico Agripa de Vasconcelos;Conferência;Aureliano Lessa;Agripa Vasconcelos;\N;M
+1928;5;não há;não há;Abilio Barreto ;Conferencia histórica lida pelo academico Abilio Barreto;Conferência;João Leite da Silva Ortiz;Bello Horizonte;\N;M
+1959-1964;22/01/2022 00:00;Não tem;Não tem;Oiliam José;Sete romancistas mineiros (João de Minas — pseudônimo de Ariosto Palombo, Armando Pardini, Orlando de Souza, Ivan Vasconcelos, Vinícius de Carvalho, Soares de Faria e Benedicto Valadares);Conferência;romancistas mineiros;Curso de Literatura;\N;M
+1953;17;Não tem;Colaborações;Silva Guimarães;A experiência do Santo;Conto;São Francisco de Paula;\N;\N;M
+1954;20;Não tem;Colaborações;Silva Guimaráes;Narizes de Outro Mundo;Conto;luto;traição;\N;M
+1925;3;não há;não há;João Lucio Brandão;Sinhá Flor pelo acadêmico João Lucio;Conto;Sinhá Flor;conto;\N;M
+1925;3;não há;não há;Avelino Foscolo;Os Indesejáveis pelo acadêmico Avelino Foscolo;Conto;indesejáveis;conto;\N;M
+1925;3;não há;não há;Luiz de Oliveira;O Menestrel pelo acadêmico Luiz de Oliveira;Conto;menestrel;conto;\N;M
+1955-1959;21;Não tem;Colaborações;Martins de Oliveira;Foguetes de lágrimas;Conto;fogueteiro;mágoa;\N;M
+1955-1959;21;Não tem;Páginas antigas;Carmo Gama;A consoada;Conto;tradição luso-brasileira;interior de Minas;\N;M
+1933;8;não há;não há;Lopes Rodrigues;Cabeça de Hemiplegico;Crônica;arte;Aníbal Matos;\N;M
+1933;8;não há;não há;J. Paixão;Vinde para o sol;Crônica;velho;mocidade;\N;M
+1933;9;Não há;Não há;José de Mesquita;Ponto de honra;Crônica;José de Mesquita;Crônica;\N;M
+1954;20;Não tem;Asteriscos;José Maria Teixeira de Azevedo Júnior;O triste fim de um jornalista da oposição;Crônica;Azevedo Júnior;sofrimento;\N;M
+1954;20;Não tem;Asteriscos;José Clemente;"Os ""crocodilos"" do Nilo";Crônica;Sr. José Oswaldo de Aráujo;voto;\N;M
+1925;3;não há;não há;Alvaro da Silveira;O Quilombo do Ambrosio pelo acadêmico Alvaro da Silveira;Crônica;Ouilombo do Ambrosio;crônica;\N;M
+1955-1959;21;Não tem;Páginas antigas;Arthur Lobo ;Janeiro ;Crônica;lembrança ;contemplação;\N;M
+1934;12;1ª parte - Comemorativo do 4º Cenetenário de José de Anchieta;Não tem;Nelson de Senna;Instituto Anchietano;Depoimento;Texto descritivo;\N;\N;M
+1934;12;1ª parte - Comemorativo do 4º Cenetenário de José de Anchieta;Escritos e apontamentos sobre José de Anchieta ;Aníbal Matos;Uma contribuição original;Depoimento;Depoimento;\N;\N;M
+1934;13;Commemorativo do 4.º Centenário de José de Anchieta ;não há;Lopes Rodrigues;Depoimento Medico de Anchieta (através de cartas escritas do Brasil  e outros documentos);Depoimento;índios;terra;\N;M
+1932;7;não há;não há;Aníbal Matos;Discurso do Presidente da Academia;Discurso;Garibaldi;Anita;\N;M
+1932;7;não há;não há;Lourenço Nicolai;Discurso do dr. Lourenço Nicolai;Discurso;Anita;Garibaldi;\N;M
+1932;7;não há;não há;Aníbal Matos;Seção solene em homenagem a Trystão de Athayde;Discurso;Academia;Trystão;\N;M
+1933;8;não há;não há;Noraldino Lima;Discurso do academico Noraldino Lima, no Congresso de Varginha;Discurso;Colônia;Estado;\N;M
+1933;8;não há;não há;Pamphilo Assumpção;Saudação;Discurso;Centro de Letras;literatura;\N;M
+1933;8;não há;não há;Carlos Góes;Casimiro de Abreu;Discurso;Casimiro de Abreu;poeta;\N;M
+1933;10;Não tem;Não tem;Noraldino Lima;Discurso do acadêmico Noraldino Lima como paraninfo das professoras diplomadas pela Escola Normal de Campanha;Discurso;Noraldino Lima;Escola Normal de Campanha;\N;M
+1933;10;Não tem;Não tem;José Joaquim do Carmo Gama;Discurso proferido, na sessão funebre, realizada no salão da Câmara Municipal da Cidade do Rio Novo, Minas, na noite de 3 de Abril de 1897, em homenagem à memória  dos martires no combate de 3 de Março, em Canudos, Baía.;Discurso;Canudos;José Joaquim do Carmo Gama;\N;M
+1933;10;Não tem;Não tem;José Joaquim do Carmo Gama;A língua portuguesa e sua Ortografia - Discurso lido em sessão solene da Academia Mineira de Letras realizada na sala das sessões da Câmara Municipal de Juiz de Fora, em 1 de Julho de 1911, pelo acadêmico José Joaquim do Carmo Gama como receptor, de Academia, do acadêmico recipiendario Olimpio de Araújo.;Discurso;Olimpio de Araújo;José Joaquim do Carmo Gama;\N;M
+1933;11;não há;não há;Noraldino Lima;Discurso do acadêmico Noraldino Lima, na colação de grau da turma de 1933, do Colégio Imaculada Conceição;Discurso;Collegio Imaculada Conceição;Educação;\N;M
+1933;11;não há;não há;Mário Matos;Discurso do academico Mário Matos, no Automóvel Clube de Belo Horizonte;Discurso;Natal;Jesus;\N;M
+1933;11;não há;não há;Noraldino Lima;Colação de grau ds alunas da Escola Normal Oficial de Formiga - discurso do Secretário de Educação Dr. Noraldino Lima como paraninfo;Discurso;Trabalho;Professora;\N;M
+1933;11;não há;não há;Noraldino Lima;Colação de grau na Escola Normal de S. Gonçalo do Sapucaí - discurso do Secretário de Educação Dr. Noraldino Lima como paraninfo;Discurso;\N;\N;\N;M
+1953;17;Não tem;Orações Acadêmicas;Moacir Andrade;Saudação ao acadêmico Ciro dos Anjos;Discurso;posse;\N;\N;M
+1953;17;Não tem;Orações Acadêmicas;Antônio de Almeida Morais Junior;Discurso de posse;Discurso;posse;\N;\N;M
+1953;17;Não tem;Orações Acadêmicas;Ciro dos Anjos;Saudação a D. Antônio de Morais Junior;Discurso;posse;\N;\N;M
+1953;17;Não tem;Orações Acadêmicas;Oscar Mendes;Discurso de posse;Discurso;posse;\N;\N;M
+1953;17;Não tem;Orações Acadêmicas;Cristiano Martins;Saudação a Oscar Mendes;Discurso;posse;\N;\N;M
+1953;17;Não tem;Orações Acadêmicas;Abílio Barreto;Centenário de Estevão de Oliveira;Discurso;centenário;\N;\N;M
+1953;17;Não tem;In Memoriam;Mário Matos;Godofredo Rangel;Discurso;sepultamento;\N;\N;M
+1953;17;Não tem;In Memoriam;Lindolfo Gomes;Arduíno Bolívar;Discurso;poeta;\N;\N;M
+1953;17;Não tem;Recepções e Homenagens;Equipe - Academia Mineira de Letras (AML);Homenagem a Guilherme de Almeida;Discurso;recepção;\N;\N;M
+1953;17;Não tem;Recepções e Homenagens;Godofredo Rangel;A saudação do acadêmico Godofredo Rangel;Discurso;Godofredo Rangel;\N;\N;M
+1953;17;Não tem;Recepções e Homenagens;Guilherme de Almeida;O agradecimento do Sr. Guilherme de Almeida;Discurso;agradecimento;\N;\N;M
+1953;17;Não tem;Recepções e Homenagens;Equipe - Academia Mineira de Letras (AML);Homenagem a Sérgio Milliet;Discurso;recepção;\N;\N;M
+1953;17;Não tem;Recepções e Homenagens;Equipe - Academia Mineira de Letras (AML);Homenagem a memória de João Alphonsus;Discurso;João Alphonsus;\N;\N;M
+1953;17;Não tem;Recepções e Homenagens;Emílio Moura;Saudação do Sr. Emílio Moura ao Sr. Sérgio Millet;Discurso;Sérgio Millet;\N;\N;M
+1953;17;Não tem;Recepções e Homenagens;Djalma Andrade;Discurso do acadêmico Djalma Andrade;Discurso;homenagem;\N;\N;M
+1953;17;Não tem;Recepções e Homenagens;Honório Armond;Discurso do acadêmico Honório Armond;Discurso;recepção;\N;\N;M
+1953;17;Não tem;Recepções e Homenagens;Equipe - Academia Mineira de Letras (AML);Recepção do acadêmico Djalma Andrade;Discurso;acadêmico;\N;\N;M
+1953;17;Não tem;Recepções e Homenagens;Equipe - Academia Mineira de Letras (AML);Homenagens a Afonso Pena Júnior;Discurso;A arte de furtar e o seu autor;\N;\N;M
+1953;17;Não tem;Recepções e Homenagens;Aires da Mata Machado Filho;Fala do Sr. Aires da Mata Machado Filho;Discurso;Afonso Pena Júnior;\N;\N;M
+1953;17;Não tem;Recepções e Homenagens;Bueno de Cerqueira;Discurso do Cônego Bueno de Cerqueira;Discurso;Afonso Pena Júnior;\N;\N;M
+1953;17;Não tem;Recepções e Homenagens;Mário Matos;Discurso do acadêmico Mário Matos;Discurso;Afonso Pena Júnior;\N;\N;M
+1953;17;Não tem;Homenagem Especial;Equipe - Academia Mineira de Letras (AML);A Academia Mineira de Letras ao Prefeito Otacílio Negrão de Lima;Discurso;Inauguração da Academia Mineira de Letras (AML);\N;\N;M
+1953;17;Não tem;Homenagem Especial;Heli Menegale;Discurso do acadêmico Heli Menegale;Discurso;Inauguração da Academia Mineira de Letras (AML);\N;\N;M
+1953;17;Não tem;Homenagem Especial;Otacílio Negrão de Lima;Discurso do prefeito Otacílio Negrão de Lima;Discurso;Inauguração da Academia Mineira de Letras (AML);\N;\N;M
+1953;17;Não tem;Vários Assuntos;Alphonsus de Guimaraens Filho;Discurso do acadêmico Alphonsus de Guimaraens Filho;Discurso;Murilo Rubião;\N;\N;M
+1953;17;Não tem;Vários Assuntos;Murilo Rubião;Discurso do escritor Murilo Rubião;Discurso;agradecimento;\N;\N;M
+1953;17;Não tem;Vários Assuntos;Othon Lynch Bezerra de Melo Filho;Discurso do representante do Sr. Othon Lynch Bezerra de Melo;Discurso;agradecimento;\N;\N;M
+1934;12;1ª parte - Comemorativo do 4º Cenetenário de José de Anchieta;Não tem;Antonio Cabral;Discurso de D. Antonio Cabral, Arcebispo de Belo Horizonte;Discurso;Discurso;\N;\N;M
+1922;1;não há;não há;Eduardo de Menezes;Discurso Inaugural do acadêmico Eduardo de Menezes;Discurso ;Eduardo de Menezes;AML;\N;M
+1934;12;1ª parte - Comemorativo do 4º Cenetenário de José de Anchieta;Não tem;Lúcio dos Santos;Discurso do Dr. Lúcio dos Santos em nome da Academia Mineira de Letras;Discurso;Discurso;\N;\N;M
+1922;1;não há;não há;José Eduardo da Fonseca;Discurso do acadêmico José Eduardo da Fonseca;Discurso ;José Eduardo da Fonseca ;AML ;\N;M
+1934;12;1ª parte - Comemorativo do 4º Cenetenário de José de Anchieta;Não tem;Alberto Deodato;Discurso do Dr. Alberto Deodato, em nome da Universidade de Minas Gerais;Discurso;Discurso;\N;\N;M
+1922;1;não há;não há;Alvaro da Silveira ;Discurso do acadêmico Alvaro da Silveira ;Discurso ;AML ;Alvaro da Silveira ;\N;M
+1934;12;1ª parte - Comemorativo do 4º Cenetenário de José de Anchieta;Não tem;Sigefredo Marques;Discurso do Sr. Sigefredo Marques Soares, em nome da Academia dos Novos;Discurso;Discurso;\N;\N;M
+1936;18;Apontamentos para a História das Artes, das Sciencias e das Letras de Minas Gerais;As homenagens prestadas ao escritor e artista Prof. Anibal Mattos, em Bello Horizonte, por intellectuaes, artistas, professores e amigos;Waldemar Tavares;Discurso do orador da Solenidade - Dr.  Waldemar Tavares. Auxiliar Tecnhico do Secretario da Educação;Discurso;homenagem;\N;\N;M
+1936;18;Apontamentos para a História das Artes, das Sciencias e das Letras de Minas Gerais;As homenagens prestadas ao escritor e artista Prof. Anibal Mattos, em Bello Horizonte, por intellectuaes, artistas, professores e amigos;Aníbal Matos;Discurso do acadêmico Anibal Mattos;Discurso;agradecimento;\N;\N;M
+1922;1;não há;não há;Nelson de Senna;Discurso do acadêmico Nelson de Senna;Discurso ;AML;discurso ;\N;M
+1936;18;Apontamentos para a História das Artes, das Sciencias e das Letras de Minas Gerais;As homenagens prestadas ao escritor e artista Prof. Anibal Mattos, em Bello Horizonte, por intellectuaes, artistas, professores e amigos;Firmino Costa;Palavras do Professor Firmino Costa, Director da Escola Normal;Discurso;homenagem;\N;\N;M
+1936;18;Apontamentos para a História das Artes, das Sciencias e das Letras de Minas Gerais;Installação solenne da Academia de Sciencias de Minas Gerais;Lúcio dos Santos;Discurso do Dr. Lúcio dos Santos;Discurso;instalação ;\N;\N;M
+1936;18;Apontamentos para a História das Artes, das Sciencias e das Letras de Minas Gerais;Inauguração do Monumento a Affonso Arinos em Bello Horizonte;Otacílio Negrão de Lima;O discurso do Prefeito de Bello Horizonte;Discurso;monumento;\N;\N;M
+1936;18;Apontamentos para a História das Artes, das Sciencias e das Letras de Minas Gerais;Inauguração do Monumento a Affonso Arinos em Bello Horizonte;Mário Matos;O discurso do academico Mario Mattos;Discurso;monumento;\N;\N;M
+1936;18;Apontamentos para a História das Artes, das Sciencias e das Letras de Minas Gerais;Homenageando artistas (Inauguração de uma placa de bronze, no Theatro Municipal, em homenagem ás artistas Adelina e Aurea Abranches);Waldemar Tavares;Discurso do Dr. Waldemar Tavares;Discurso;homenagem;\N;\N;M
+1922;1;não há;não há;Noraldino Lima;Discurso de recepção do acadêmico Noraldino Lima;Discurso ;AML; Noraldino Lima;\N;M
+1922;1;não há;não há;João Lucio Brandão ;Resposta do acadêmico João Lucio Brandão ;Discurso ;João Lucio Brandão;Noraldino Lima;\N;M
+1923/1924;2;Não há;Não há;Agripa de Vasconcelos;Discurso do academico Agripa de Vasconcelos, na sessão de 11 de maio de 1923;Discurso;Intelectual;Romeiro;\N;M
+1923/1924;2;Não há;Não há;Carlos Goés;Discurso do academico Carlos Góes, na sessão de 11 de maio de 1923;Discurso;Membros;Verbo;\N;M
+1923/1924;2;Não há;Não há;Almeida Magalhães;Discurso do academico Almeida Magalhães, na sessão de 11 de maio de 1923;Discurso;Apresentação;Letras;\N;M
+1923/1924;2;Não há;Não há;Alvaro da Silveira;Discurso do academico Alvaro da Silveira, na sessão de 11 de maio de 1923;Discurso;Academia;Ideias;\N;M
+1954;20;Não tem;In Memoriam;Heli Menegale;Lindolfo Gomes;Discurso;Juiz de Fora;homenagem;\N;M
+1923/1924;2;Não há;Não há;Aníbal Matos;Discurso do academico Aníbal Matos, na sessão de 15 de agosto de 1923;Discurso;Confrades;America Latina;\N;M
+1923/1924;2;Não há;Não há;Navantino Santos;Discurso do academico Navantino Santos, na sessão de 15 de agosto de 1924 de Recepção a Aníbal Mattos;Discurso;Max Nordau;Política;\N;M
+1923/1924;2;Não há;Não há;Noraldino Lima;Discurso do academico Noraldino Lima, na sessão de 27 de setembro de 1924;Discurso;José Antonio Nogueira;Cultura;\N;M
+1923/1924;2;Não há;Não há;Paulo Brandão;Discurso do academico Paulo Brandão, na sessão de 27 de setembro de 1924;Discurso;Olympo;Jornada;\N;M
+1954;20;Não tem;In Memoriam;Francisco Sales de Oliveira;Recordando Lindolfo Gomes;Discurso;Juiz de Fora;homenagem;\N;M
+1934;14;não há;As homenagens ao acadamico Mario Mattos em Juiz de Fora;Salles de Oliveira;O discurso do Dr Salles;Discurso;Mario Mattos;Juiz de Fora;\N;M
+1954;20;Não tem;In Memoriam;Joaquim Ribeiro;Homenagem a Lindolfo Gomes;Discurso;homenagem;Lindolfo Gomes;\N;M
+1934;14;não há;As homenagens ao acadamico Mario Mattos em Juiz de Fora;Mário Matos;O agradecimento do Dr. Mario Mattos;Discurso;\N;\N;\N;M
+1954;20;Não tem;Orações Acadêmicas;Nilo Aparecida Pinto;Discurso de posse;Discurso;posse;Nilo Aparecida Pinto;\N;M
+1934;14;não há;não há;Aníbal Matos;Homenagem da Academia Mineira de Letras ao dr. Olegario Maciel  (Do mInas Gerais, 06/09?1934);Discurso;Olegário Maciel;Defesa Nacional;\N;M
+1954;20;Não tem;Orações Acadêmicas;Mário Matos;Saudação a Nilo Aparecida Pinto;Discurso;posse;Nilo Aparecida Pinto;\N;M
+1934;14;não há;Homenagem da Academia Mineira à memória do Dr Augusto de Lima, seu presidente de honra;Aníbal Matos;Discurso do Dr. Anibal Mattos e outras notas;Discurso;Augusto de Lima;homenagem;\N;M
+1954;20;Não tem;Orações Acadêmicas;Mário Casasanta;Saudação a Augusto de Lima Júnior;Discurso;posse;Augusto de Lima Júnior;\N;M
+1954;20;Não tem;Orações Acadêmicas;Augusto de Lima Júnior;Discurso de posse;Discurso;posse;Augusto de Lima Júnior;\N;M
+1954;20;Não tem;Orações Acadêmicas;Mário Matos;Saudação a Gilberto de Alencar;Discurso;homenagem;Gilberto de Alencar;\N;M
+1954;20;Não tem;Notícias;Alphonsus de Guimaraens Filho;"O ""Prêmio Othon Lynch Bezerra de Melo"" concedido em 1953";Discurso;premiação;Sr. Afonso Ávila;\N;M
+1954;20;Não tem;In Memoriam;Salomão de Vasconcelos;Elogio de Arduíno Bolívar;Discurso;gratidão;acadêmico;\N;M
+1925;3;não há;não há;Noraldino Lima;"Azevedo Junior; discurso pelo acadêmico Noraldino Lima";Discurso;Azevedo Junior;discurso;\N;M
+1926;4;não há;não há;Carlos Góes;Discurso proeminal, do Presidente da Academia Sr. Carlos Góes, na sessão solene de recepção do Sr. Afonso Pena Júnior;Discurso;Apresentação;Empossamento;\N;M
+1926;4;não há;não há;Afonso Pena Júnior;Discurso de empossamento do Sr. Afonso Pena Junior, na sessão solene de 27 de Março de 1925;Discurso;Títulos;Leituras;\N;M
+1926;4;não há;não há;Dilermando Cruz;Discurso do academico Dilermando Cruz, de recepção ao Sr. Afonso Pena Junior em sessão solene de 27 de Março de 1925;Discurso;Academia;Etiqueta;\N;M
+1926;4;não há;não há;Carlos Góes;"CENTENÁRIO DE DOM PEDRO II - Discurso proferido pelo Presidente da Academia Carlos Góes, em sessão extraordinária comemorativa no Grupo Escolar ""Dom Pedro II"" a 2 de Dezembro de 1925";Discurso;Dom Pedro II;Grupo escolar D. Pedro II ;\N;M
+1926;4;não há;não há;Aníbal Matos;Centenário de Bernardo Guimarães - Discurso pelo Secretario Geral Anibal Mattos, ao inaugurar a placa comemorativa junto á herma do saudoso escritor, a 15 de Agosto de 1925, na Praça da Liberdade, em Belo Horizonte;Discurso;Homenagem;Lápide;\N;M
+1926;4;não há;não há;Abilio Barreto;SILVA ALVARENGA - Discurso de empossamento do Sr. Abilio Barreto na Cadeira num. 18 em a sessão solene de 26 de Junho de 1926;Discurso;Empossamento;Letras;\N;M
+1926;4;não há;não há;João Lucio Brandão;POSSE DO ACADEMICO ABILIO BARRETO - Discurso do Sr. João Lucio Brandão em a sessão solene de 26 de Junho de 1926;Discurso;Abílio Barreto;posse;\N;M
+1926;4;não há;não há;José Eduardo da Fonseca;AFFONSO ARINOS - Discurso pronunciado pelo acadêmico José Eduardo da Fonseca, por ocasião do falecimento do grande escritor;Discurso;Afonso Arinos;homenagem;\N;M
+1926;4;não há;não há;Carlos Góes;Discurso pelo presidente Carlos Góes, em sessão extraordinária de 24 de Agosto de 1926, em resposta à Mensagem Fluminense;Discurso;Discurso;Academia Fluminense de Letras;\N;M
+1928;5;não há;não há;Mário Matos ;Discurso do acadêmico Mário Matos;Discurso;Concurso ;Obras literarias;\N;M
+1955-1959;21;Não tem;Colaborações;Heli Menegale;Artur de Sales, o poeta praieiro;Discurso;poeta;Artur de Sales;\N;M
+1928;5;não há;não há;Carlos Góes;Mecenas;Discurso;Arte;Presidente de Minas;\N;M
+1934;15;Não há;Não há;Aníbal Matos;Recepção do Dr. Mario Mendes Campos (Do Minas Gerais, 11/09/1934);Discurso;Dr. Mario Mendes Campos;\N;\N;M
+1934;15;Não há;Não há;Mario Mendes Campos;Discurso do Dr. Mario Mendes Campos;Discurso;Mario Mendes Campos;\N;\N;M
+1955-1959;21;Não tem;Colaborações;Salomão de Vasconcelos;Uma ilustre matrona mineira do tempo da Independência ;Discurso;Henriqueta Lisboa;escritora;\N;M
+1934;15;Não há;Não há;Equipe - Academia Mineira de Letras (AML);Recepção do acadêmico Martins de Oliveira;Discurso;Martins de Oliveira;\N;\N;M
+1928;5;não há;não há;Nelson de Senna;Necrologio do senhor Diogo de Vasconcellos;Discurso;Homenagem;Diogo de Vasconcellos;\N;M
+1934;15;Não há;Não há;Albino Esteves;Discurso do Acadêmico Albino Esteves, ao receber Martins de Oliveira;Discurso;Albino Esteves;\N;\N;M
+1934;15;Não há;Não há;Martins de Oliveira;Discurso do Acadêmico Martins de Oliveira;Discurso;Martins de Oliveira;\N;\N;M
+1955-1959;21;Não tem;In Memoriam;José Oswaldo de Araújo;Noraldino Lima;Discurso;homenagem;Noraldino Lima;\N;M
+1955-1959;21;Não tem;In Memoriam;Mário Casasanta;A obra de Abílio Barreto;Discurso;saudação;Abílio Barreto;\N;M
+1928;5;não há;não há;Mário Matos ;Discurso de empossamento do sr. Dr. Mário Matos;Discurso;Academia;Diogo de Vasconcellos;\N;M
+1955-1959;21;Não tem;Vários Assuntos ;Bueno de Cerqueira e Waldemar Pequeno;Prêmio Literário Othon Lynch, de 1955;Discurso;Waldemar Pequeno;Prêmio Literário Othon Lynch;Sequeira;M
+1928;5;não há;não há;Noraldino Lima;Discurso do academico Noraldino Lima, recebendo o acadêmico Mario Matos;Discurso;Mário Matos;Academia ;\N;M
+1955-1959;21;Não tem;Vários Assuntos ;Bueno de Cerqueira;Discurso do acadêmico cônego Bueno de Sequeira;Discurso;saudação;Waldemar Pequeno;Sequeira;M
+1955-1959;21;Não tem;Vários Assuntos ;Waldemar Pequeno;Discurso do escritor Waldemar Pequeno;Discurso;agradecimento;Prêmio Literário Othon Lynch;\N;M
+1928;5;não há;não há;João Lucio Brandão;O adeus da turma;Discurso;Brasil;Direito;\N;M
+1935;16;Não há;Não há;"Renato Lima; Noraldino Lima";Homenagem dos artistas mineiros ao Dr. Noraldino Lima (O discurso do Dr. Renato Lima e o agradecimento do Secretario da Educação e Saúde Pública);Discurso;Noraldino Lima;\N;\N;M
+1935;16;Não há;Não há;Noraldino Lima;Escola Normal de Ouro Fino (Discurso pronunciado pelo Dr. Noraldino Lima, como paraninfo das diplomandas da Escola Normal de Ouro Preto);Discurso;Escola Normal de Ouro Fino;\N;\N;M
+1935;16;Não há;Não há;Afonso Pena Júnior;Jackson de Figueiredo (Por ocasião das homenagens prestadas á memória de Jackson de Figueiredo, a 4 de novembro, o nosso eminente patrício Dr. Affonso Penna Junior pronunciou no Centro D. Vital, do Rio, o notável discurso que ora publicamos);Discurso;Jackson de Figueiredo;\N;\N;M
+1935;16;Não há;Não há;Aníbal Matos;"Recepção do prof. Souza Peres na Academia Mineira de Letras (O discurso do prof. Anibal Mattos - A conferência do ilustre intelectual português sobre ""A memória na arte literária"")";Discurso;Souza Peres;\N;\N;M
+1932;6;Não há;Não há;Aníbal Matos;A cerimônia de posse da nova Diretoria da Academia Mineira de Letras - Discurso do Presidente eleito prof. Aníbal Matos;Discurso;Aníbal Matos;Academia Mineira de Letras;\N;M
+1932;6;Não há;Não há;Aníbal Matos;A homenagem da Academia Mineira de Letras à memória de Graça Aranha - Discurso do presidente da Academia;Discurso;Graça Aranha;Aníbal Matos;\N;M
+1932;6;Não há;Não há;Noraldino Lima;Apresentando a poetiza Henriqueta Lisboa - Discurso do Dr. Noraldino Lima;Discurso;Henriqueta Lisboa;Noraldino Lima;\N;M
+1932;6;Não há;Não há;Noraldino Lima;Discurso de agradecimento do dr. Noraldino Lima, nas homenagens que lhe prestaram os professores e intelectuais de Belo Horizonte;Discurso;Noraldino Lima;Belo Horizonte;\N;M
+1932;7;não há;não há;Eduardo Frieiro;Goethe e as mulheres;Ensaio ;Mulher;Amor;\N;M
+1932;7;não há;não há;Guilhermino Cesar;Goethe e Napoleão;Ensaio ;poeta;Napoleão;\N;M
+1932;7;não há;não há;Lindolfo Gomes;Goethe, o novo livro de João Ribeiro;Ensaio ;João Ribeiro;Goethe;\N;M
+1933;8;não há;não há;Mário Matos;Um artista;Ensaio;Aníbal Matos;arte;\N;M
+1933;9;Não há;Não há;Diogo de Vasconcellos;As Obras de Arte ;Ensaio;Arquitetura;Cidades históricas;\N;M
+1933;10;Não tem;Não tem;Mário Casasanta;Machado de Assis e o tédio á controvérsia;Ensaio;Machado de Assis;Mário Casasanta;\N;M
+1933;10;Não tem;Não tem;Mário Matos;Poeta da ternura e homem prático;Ensaio;Poesia;História;\N;M
+1953;17;Não tem;Colaborações;Heli Menegale;Elogio da Bondade;Ensaio;Mário de Lima;\N;\N;M
+1953;17;Não tem;Colaborações;Lindolfo Gomes;Como se fundou a Academia Mineira de Letras;Ensaio;Fundação;\N;\N;M
+1953;17;Não tem;Colaborações;João Dornas Filho;Monteiro Lobato e os Mineiros;Ensaio;Monteiro Lobato;\N;\N;M
+1953;17;Não tem;Colaborações;Bueno de Cerqueira;Camões e o mar;Ensaio;Camões;\N;Cônego;M
+1922;1;não há;não há;Mendes de Oliveira;Elogio de Thomaz Antonio  Gonzaga pelo acadêmico Mendes de Oliveira;Ensaio ;Thomaz Antonio Gonzaga;Mendes de Oliveira;\N;M
+1934;12;1ª parte - Comemorativo do 4º Cenetenário de José de Anchieta;Não tem;Guilhermino Cesar;Um discípulo de Anchieta no vale do Rio Doce;Ensaio;Texto descritivo;\N;\N;M
+1922;1;não há;não há;Carlos Góes;Elogio de Santa Rita Durão pelo acadêmico Carlos Góes ;Ensaio ;Santa Rita Durão ;Carlos Góes;\N;M
+1934;12;1ª parte - Comemorativo do 4º Cenetenário de José de Anchieta;Não tem;Carlos Góes;O apóstolo das Brenhas;Ensaio;Narrativa;\N;\N;M
+1934;12;1ª parte - Comemorativo do 4º Cenetenário de José de Anchieta;Escritos e apontamentos sobre José de Anchieta ;Aníbal Matos;Escritos e apontamentos sobre José de Anchieta;Ensaio;Anchieta;\N;\N;M
+1922;1;não há;não há;Alvaro da Silveira ;Memoria sobre o naturalista frei Conceição Velloso pelo acadêmico Alvaro da Silveira ;Ensaio ;frei Conceição Velloso;Alvaro da Silveira ;\N;M
+1922;1;não há;não há;João Lucio Brandão ;Elogio de Barbara Heliodora pelo acadêmico João Lucio Brandão ;Ensaio ;Bárbara Heliodora;AML;\N;M
+1922;1;não há;não há;Mario de Lima ;O Marquez de Sapucahy, elogio proferido pelo acadêmico Mario de Lima;Ensaio ;Marquez de Sapucahy;AML;\N;M
+1936;18;Apontamentos para a História das Artes, das Sciencias e das Letras de Minas Gerais;Não tem;Carlos Góes;O Centenário de D. Pedro II em Belo Horizonte;Ensaio;Carlos Góes;\N;\N;M
+1936;18;Apontamentos para a História das Artes, das Sciencias e das Letras de Minas Gerais;Homenageando artistas (Inauguração de uma placa de bronze, no Theatro Municipal, em homenagem ás artistas Adelina e Aurea Abranches);Ignacio Raposo;Pelo mundo das artes;Ensaio;história;\N;\N;M
+1934;13;Commemorativo do 4.º Centenário de José de Anchieta ;não há;Lopes Rodrigues;Introdução a Medicina de Anchieta ou a Medicina em Relação ao Apostolado da Companhia de Jesus;Ensaio;Jesuitas;medicina;\N;M
+1934;13;Commemorativo do 4.º Centenário de José de Anchieta ;não há;Lopes Rodrigues;Patologia e Medicina do Brasil. (a terra - o clima - a gente - as coisas do Brasil);Ensaio;médico;medicina;\N;M
+1934;13;Commemorativo do 4.º Centenário de José de Anchieta ;não há;Lopes Rodrigues;Anchieta e a Fundação da Santa Casa de Misericórdia e Hospital da Cidade de S. Sebastião do Rio de Janeiro;Ensaio;Santa Casa de Misericórdia;José;\N;M
+1934;13;Commemorativo do 4.º Centenário de José de Anchieta ;não há;Lopes Rodrigues;A Medicina e o Misticismo Criador de Anchieta;Ensaio;misticismo;Medicina;\N;M
+1934;13;Commemorativo do 4.º Centenário de José de Anchieta ;não há;Lopes Rodrigues;Anchieta - Ressurreição e Gloria da Medicina;Ensaio;Milagre;Terra;\N;M
+1934;14;não há;não há;J. Pinto de Souza;"O poeta Mendes de Oliveira, autor de ""Prelios pagãos""";Ensaio;Mendes de Oliveira;poeta;\N;M
+1934;14;não há;não há;Vulmar Coelho;Alphonsus de Guimaraens, humorista e satyrico ( Do Minas Gerais, 02/02/1934);Ensaio;Alphonsus de Guimaraens;Conceição do Serro;\N;M
+1934;14;não há;não há;Machado Sobrinho;Notas bibliographicas;Ensaio;Lindolpho Gomes;45 sonetos;\N;M
+1954;20;Não tem;Colaborações;Eduardo Frieiro;"A ""Respeitosa"" do Araxá";Ensaio;Fonte da Beija;Dona Beija;\N;M
+1925;3;não há;não há;José Eduardo da Fonseca;Elogio de Evaristo Ferreira da Veiga pelo acadêmico José Eduardo da Fonseca;Ensaio;Evaristo Ferreira da Veiga;elogio;\N;M
+1954;20;Não tem;Colaborações;Salomão de Vasconcelos;A casa de Marília;Ensaio;Casa de Maríia;Maríia de Dirceu;\N;M
+1955-1959;21;Não tem;Colaborações;Oscar Mendes;Charlotte Bronte;Ensaio;centenário de morte;Charlotte Bronte;\N;M
+1955-1959;21;Não tem;Colaborações;Eduardo Frieiro;Impopularidade na poesia nova;Ensaio;poesia;impopularidade;\N;M
+1955-1959;21;Não tem;Colaborações;Djalma Andrade;Dias vividos;Ensaio;vivências;Djalma Andrade;\N;M
+1955-1959;21;Não tem;Colaborações;João Dornas Filho;Notas para a história da literatura mineira;Ensaio;história;literatura mineira;\N;M
+1955-1959;21;Não tem;Colaborações;Aires da Mata Machado Filho;Analogia da sintaxe portuguesa;Ensaio;sintaxe;língua portuguesa;\N;M
+1928;5;não há;não há;Mario Mello;Confederação das Academias de Letras;Ensaio;Academias de Letras;Academia regional;\N;M
+1935;16;Não há;Não há;Teixeira de Salles;O sentido religioso do romantismo;Ensaio;Romantismo;\N;\N;M
+1959-1964;22/01/2022 00:00;Não tem;Não tem;Martins de Oliveira;Problemas de arte pura e suas correlações;Ensaio;arte universal;filosofia;\N;M
+1959-1964;22/01/2022 00:00;Não tem;Não tem;Mário Matos;O escritor e a língua;Ensaio;escritor;língua;\N;M
+1959-1964;22/01/2022 00:00;Não tem;Não tem;Fábio Lucas;Euclides da Cunha no Cinquentenário;Ensaio;Euclides da Cunha;Os sertões;\N;M
+1959-1964;22/01/2022 00:00;Não tem;Não tem;Oscar Mendes;Louros ou negros?;Ensaio;cor do cabelo;D. Maria Dorotéia Joaquina de Seixas;\N;M
+1932;6;Não há;Não há;Equipe - Academia Mineira de Letras (AML);Origens da Arte brasileira;Ensaio;Arte brasileira;Arte;\N;M
+1928;5;não há;não há;Mário Matos;Um quadro actual da mentalidade brasileira (entrevista de Mario Matos a O Paiz);Entrevista;Minas;Literatura;\N;M
+1953;17;Não tem;Vários Assuntos;Equipe - Academia Mineira de Letras (AML);"Prêmio literário ""Othon Lynch Bezerra de Melo""";Estatuto;normas;\N;\N;M
+1926;4;não há;não há;Plínio de Mendonça;Estatutos (2ª edição);Estatuto;Leis;Normas;\N;M
+1934;15;Não há;Não há;Equipe - Academia Mineira de Letras (AML);Estatuto da Academia Mineira;Estatuto;Academia Mineira de Letras;\N;\N;M
+1934;12;1ª parte - Comemorativo do 4º Cenetenário de José de Anchieta;Não tem;Martins de Oliveira;Funerais de Anchieta;Excertos;Trechos poemas;\N;\N;M
+1932;6;Não há;Não há;Equipe - Academia Mineira de Letras (AML);Herma do dr. Diogo Vasconcellos;Herma (representação/escultura);Diogo Vasconcellos;Herma;\N;M
+1936;18;Apontamentos para a História das Artes, das Sciencias e das Letras de Minas Gerais;Homenageando artistas (Inauguração de uma placa de bronze, no Theatro Municipal, em homenagem ás artistas Adelina e Aurea Abranches);Martins de Oliveira;Ronald de Carvalho;Homenagem;falecimento;\N;\N;M
+1955-1959;21;Não tem;Colaborações;Gilberto de Alencar;Vida de meu pai;Homenagem;Fernando de Alencar;acadêmico;\N;M
+1934;15;Não há;Não há;Equipe - Academia Mineira de Letras (AML);Francisco Lins e Carlos Góes;Homenagem;Homenagem;\N;\N;M
+1934;15;Não há;Não há;Manuel José do Nascimento;Professor Carlos Góes ;Homenagem;Carlos Góes;\N;\N;M
+1932;6;Não há;Não há;Equipe - Academia Mineira de Letras (AML);O centenário de Alvares de Azevedo;Homenagem;Álvares de Azevedo ;Homenagem;\N;M
+1932;6;Não há;Não há;Carlos Góes;Saudação a Olavo Bilac;Homenagem;Olavo Bilac;Carlos Góes;\N;M
+1932;6;Não há;Não há;Equipe - Academia Mineira de Letras (AML);Sessão solene da Academia em homenagem aos Rotarianos presentes à segunda Conferência Rotariana Brasileira;Homenagem;Homenagem;Conferência Rotariana Brasileira;\N;M
+1932;6;Não há;Não há;Equipe - Academia Mineira de Letras (AML);Índice do presente volume;Índice;Materias;Volume VI;\N;M
+1932;6;Não há;Não há;Equipe - Academia Mineira de Letras (AML);Índice das materias contidas nos cinco primeiros volumes desta revista;Índice ;Materias;Revista da Academia Mineira de Letras;\N;M
+1954;20;Não tem;Notícias;Equipe - Academia Mineira de Letras (AML);Obras premiadas de 1947 a 1952;lista;lista;ganhadores;\N;M
+1932;6;Não há;Não há;Equipe - Academia Mineira de Letras (AML);Correspondência;Lista;Correspondência;Brasil;\N;M
+1926;4;não há;não há;Lacerda Nogueira;Mensagem lida em Sessão Extraordinária de 24 de Agosto de 1926 - A Mocidade estudiosa de Minas Gerais e ao povo do Estado irmão, por intermédio da Academia Mineira de Letras;Mensagem;Mocidade estudiosa;Academia Fluminense de Letras;\N;M
+1954;20;Não tem;Vida Acadêmica;Equipe - Academia Mineira de Letras (AML);"Prêmio literário ""Othon Lynch Bezerra de Melo"" (Normas reguladoras de sua concessão)";Normas;concessão;Othon Lynch Bezerra de Melo;\N;M
+1953;17;Não tem;Vários Assuntos;Equipe - Academia Mineira de Letras (AML);Entrega do prêmio de 1947 a Murilo Rubião;Nota;Prêmio L. Bezerra de Melo;\N;\N;M
+1953;17;Não tem;Vários Assuntos;Equipe - Academia Mineira de Letras (AML);"O ""Centro Mineiro"" de Curitiba";Nota;Sr. João Dornas Filho;\N;\N;M
+1954;20;Não tem;In Memoriam;Lindolfo Gomes;Arduíno Bolívar;Nota;falecimento;Arduíno Bolívar;\N;M
+1954;20;Não tem;Luto;Equipe - Academia Mineira de Letras (AML);A morte de Plínio Mota;Nota;falecimento;Plínio Mota;\N;M
+1959-1964;22/01/2022 00:00;Não tem;Atividades da Academia Mineira de Letras de 1959 a 1964;Equipe - Academia Mineira de Letras (AML);Biênio 1959-1960;Nota;Mário Matos, presidente;proposta de admissão da mulher po Martins de Olveira;\N;M
+1959-1964;22/01/2022 00:00;Não tem;Atividades da Academia Mineira de Letras de 1959 a 1965;Equipe - Academia Mineira de Letras (AML);Biênio 1961-1962;Nota;posse;Martins de Oliveira;\N;M
+1953;17;Não tem;Recepções e Homenagens;Equipe - Academia Mineira de Letras (AML);Agradecimento ao prefeito Juscelino Kubitschek;Nota de agradecimento;Juscelino Kubitschek;\N;\N;M
+1953;17;Não tem;Luto;Equipe - Academia Mineira de Letras (AML);Lindolfo Gomes;Nota de falecimento;falecimento;\N;\N;M
+1959-1964;22/01/2022 00:00;Não tem;Não tem;Ângela Vaz Leão;"Notas Bibliográficas sobre ""Português fora das gramáticas"" de Aires da Mata Machado Filho";Notas Bibliográficas;Aires da Mata Machado Filho;Português fora das gramáticas;\N;F
+1933;10;Não tem;Não tem;Equipe - Academia Mineira de Letras (AML);Egressos da poesia mineira;Notícia;Sonetos;Oswaldo de Araújo;\N;M
+1934;12;1ª parte - Comemorativo do 4º Cenetenário de José de Anchieta;Não tem;Autoria imprecisa;Como a Academia Mineira comemorou o IV centenário do nascimento de José de Anchieta - A sessão solene (Do Minas Gerais, 20/03/1934);Notícia;José de Anchieta;\N;\N;M
+1934;12;1ª parte - Comemorativo do 4º Cenetenário de José de Anchieta;Não tem;Autoria imprecisa;A igrejinha de Anchieta no Saco de S. Francisco (Do Correio da Manhã, 18/03/1934;Notícia;Igreja de Anchieta;\N;\N;M
+1936;18;Apontamentos para a História das Artes, das Sciencias e das Letras de Minas Gerais;Não tem;Equipe - Academia Mineira de Letras (AML);Pinacotheca de Minas Gerais (Minas Gerais, 11/01/1928);Notícia;tela;\N;\N;M
+1936;18;Apontamentos para a História das Artes, das Sciencias e das Letras de Minas Gerais;As homenagens prestadas ao escritor e artista Prof. Anibal Mattos, em Bello Horizonte, por intellectuaes, artistas, professores e amigos;Equipe - Academia Mineira de Letras (AML);Instalação solene da Academia de Scencias de Minas Gerais (Minas Gerais, 11/08/1935);Notícia;programação;\N;\N;M
+1936;18;Apontamentos para a História das Artes, das Sciencias e das Letras de Minas Gerais;Inauguração do Monumento a Affonso Arinos em Bello Horizonte;Sem autoria;Affonso Arinos (Minas Gerais, 02/08/1929);Notícia;inauguração;\N;\N;M
+1954;20;Não tem;Vida Acadêmica;Aldo Delfino;Breve notícia histórica da Academia Mineira de Letras (Fase de Juiz de Fora, 1909 a 1915);Notícia;fundação;Academia Mineira de Letras (AML);\N;M
+1954;20;Não tem;Notícias;Equipe - Academia Mineira de Letras (AML);A obra de Godofredo Rangel;Notícia;lançamento ;obra completa de Godofredo Rangel;\N;M
+1954;20;Não tem;Notícias;Equipe - Academia Mineira de Letras (AML);Obras completas de Belmiro Braga;Notícia;publicação;Belmiro Braga;\N;M
+1928;5;não há;não há;Paulo Brandão;Vida Nova;Novela;Eduardo de Faria;Jacqueline;\N;M
+1932;6;Não há;Aníbal Matos;Aníbal Matos;Solteirões - Novela;Novela;Aníbal Matos;Narrativa;\N;M
+1935;16;Não há;Não há;Augusto de Lima;Tiradentes;Ópera-lírica;Augusto de Lima;\N;\N;M
+1933;11;não há;não há;José Eduardo da Fonseca;Abertura dos Cursos Universitários, preleção inaugural pelo acadêmico prof. José Eduardo da Fonseca;Palestra;Mulher;Política;\N;M
+1953;17;Não tem;Vários Assuntos;Equipe - Academia Mineira de Letras (AML);Sôbre a admissão de Mulheres na Academia;Parecer;votação;\N;\N;M
+1932;7;não há;não há;Carlos Góes;Sangue;Peça teatral;Teresa ;Francisco;\N;M
+1932;7;não há;não há;Aníbal Matos;Jesus na Bethania;Peça teatral;Senhor;Jesus;\N;M
+1933;9;Não há;Não há;Aníbal Matos;Almas Solitárias - Peça Dramática em V episódios;Peça teatral;Peça;Anibal Mattos;\N;M
+1933;10;Não tem;Almas Solitárias;Aníbal Matos;Almas Solitárias - Peça dramática em cinco episódios;Peça teatral;Teatro;Anibal Mattos;\N;M
+1933;11;não há;não há;Aníbal Matos;D. Maria de Souza -  peça histórica em 3 atos;Peça teatral;Guerra;Estevam;\N;M
+1934;14;não há;não há;Aníbal Matos;Um fidalgo do século XVII;Peça teatral;desonra;escândalo;\N;M
+1934;15;Não há;Não há;Aníbal Matos;Um Fidalgo do Século XVII;Peça teatral;Anibal Mattos;\N;\N;M
+1932;6;Não há;Aníbal Matos - da Academia Mineira de Letras e da Sociedade Mineira de Belas Artes;Aníbal Matos;Coração de Mãe - Peça em um ato;Peça teatral;Aníbal Matos;Peça;\N;M
+1935;16;Não há;Versos de Arthur França;Arthur França;Crepuscular;Poema;Coletânea;\N;\N;M
+1935;16;Não há;Versos de Arthur França;Arthur França;Balada;Poema;Coletânea;\N;\N;M
+1935;16;Não há;Versos de Arthur França;Arthur França;Superbia Victa;Poema;Coletânea;\N;\N;M
+1935;16;Não há;Versos de Arthur França;Arthur França;Aliança Sublime;Poema;Coletânea;\N;\N;M
+1935;16;Não há;Versos de Arthur França;Arthur França;A ti...;Poema;Coletânea;\N;\N;M
+1935;16;Não há;Versos de Arthur França;Arthur França;Luiz Delfino;Poema;Coletânea;\N;\N;M
+1935;16;Não há;Versos de Arthur França;Arthur França;Ad me ipsum;Poema;Coletânea;\N;\N;M
+1935;16;Não há;Versos de Arthur França;Arthur França;Nova crença;Poema;Coletânea;\N;\N;M
+1935;16;Não há;Versos de Arthur França;Arthur França;A voz das aves;Poema;Coletânea;\N;\N;M
+1935;16;Não há;Versos de Arthur França;Arthur França;Vana;Poema;Coletânea;\N;\N;M
+1935;16;Não há;Versos de Arthur França;Arthur França;A um poeta;Poema;Coletânea;\N;\N;M
+1932;7;não há;não há;Machado Sobrinho;Pesares;Poema;Sino;Vida;\N;M
+1935;16;Não há;Versos de Arthur França;Arthur França;Elza!...;Poema;Coletânea;\N;\N;M
+1932;7;não há;não há;Machado Sobrinho;Mortalha;Poema;\N;\N;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Lindolfo Gomes;Pórtico;Poema;Coletânea;\N;\N;M
+1932;7;não há;não há;Machado Sobrinho;Sentida prece;Poema;\N;\N;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Lindolfo Gomes;Marcha de Triunfo;Poema;Coletânea;\N;\N;M
+1932;7;não há;não há;Machado Sobrinho;O destino;Poema;\N;\N;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Lindolfo Gomes;Dúvida e Fé;Poema;Coletânea;\N;\N;M
+1932;7;não há;não há;Machado Sobrinho;Os sinos;Poema;\N;\N;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Lindolfo Gomes;O Inhambu;Poema;Coletânea;\N;\N;M
+1932;7;não há;não há;Machado Sobrinho;"A morte da ""Águia real""";Poema;Aguia Real;Natureza;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Lindolfo Gomes;Longe e Perto;Poema;Coletânea;\N;\N;M
+1932;7;não há;não há;Machado Sobrinho;No esplendor da natureza;Poema;\N;\N;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Lindolfo Gomes;A petála misteriosa;Poema;Coletânea;\N;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Lindolfo Gomes;Língua Pátria;Poema;Coletânea;\N;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Lindolfo Gomes;Maldição;Poema;Coletânea;\N;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Lindolfo Gomes;Cruel desejo;Poema;Coletânea;\N;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Lindolfo Gomes;O feretro da árvore;Poema;Coletânea;\N;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Lindolfo Gomes;A bruxa da tapera;Poema;Coletânea;\N;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Lindolfo Gomes;Exortação;Poema;Coletânea;\N;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Lindolfo Gomes;Ao pé da enferma;Poema;Coletânea;\N;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Lindolfo Gomes;Inveja;Poema;Coletânea;\N;\N;M
+1933;8;não há;não há;Franklin Magalhães;Ruth;Poema;alma;sol;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Lindolfo Gomes;A alguém;Poema;Coletânea;\N;\N;M
+1933;8;não há;não há;José de Mesquita;Deslumbramento;Poema;Deus;amor;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Lindolfo Gomes;Ave morta;Poema;Coletânea;\N;\N;M
+1933;8;não há;não há;José de Mesquita;Malum Aureum;Poema;ouro;verde;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Lindolfo Gomes;Sonho desfeito;Poema;Coletânea;\N;\N;M
+1933;8;não há;não há;Mendes de Oliveira;Paradoxal;Poema;vida;morte;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Lindolfo Gomes;Sobresalto;Poema;Coletânea;\N;\N;M
+1933;8;não há;não há;Mendes de Oliveira;Canção Medieval;Poema;noite;cançado;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Lindolfo Gomes;Meu inverno;Poema;Coletânea;\N;\N;M
+1933;8;não há;não há;Alphonsus de Guimaraens;Noiva;Poema;noiva;branco;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Lindolfo Gomes;Enterro no sertão;Poema;Coletânea;\N;\N;M
+1933;8;não há;não há;Agripa de Vasconcelos;Mãe de Ouro;Poema;teu;as;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Lindolfo Gomes;Mal comparando...;Poema;Coletânea;\N;\N;M
+1933;8;não há;não há;Agripa de Vasconcelos;A lagôa de Vapabuçú;Poema;morta;agua;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Lindolfo Gomes;A minha dor;Poema;Coletânea;\N;\N;M
+1933;8;não há;não há;J. Paixão;Tua boquinha;Poema;boca;boquinha;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Lindolfo Gomes;Zelo iconoclástico;Poema;Coletânea;\N;\N;M
+1933;8;não há;não há;Martins de Almeida;Rubayat de Omar Khayyam,;Poema;Rubayat de Omar Khayyam;mão;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Lindolfo Gomes;Solus;Poema;Coletânea;\N;\N;M
+1933;8;não há;não há;Antonio França;O poeta, Primeira Carta, etc;Poema;sonetos;morena;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Francisco Rodriguez Marin;A Jesus crucificado;Poema;Coletânea;\N;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Francisco Rodriguez Marin;À ciência;Poema;Coletânea;\N;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Francisco Rodriguez Marin;Morte em vida;Poema;Coletânea;\N;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Francisco Rodriguez Marin;A uma árvore;Poema;Coletânea;\N;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Francisco Rodriguez Marin;Quasi navis poma portantes;Poema;Coletânea;\N;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Francisco Rodriguez Marin;Sic vos non vobis;Poema;Coletânea;\N;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Francisco Rodriguez Marin;A Dita;Poema;Coletânea;\N;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Francisco Rodriguez Marin;Telas araneae texuerunt;Poema;Coletânea;\N;\N;M
+1933;9;Não há;Não há;José de Mesquita;No caminho da vida;Poema;José de Mesquita;Poema;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Francisco Rodriguez Marin;O menino enfermo;Poema;Coletânea;\N;\N;M
+1933;9;Não há;Não há;José de Mesquita;Na morte de Alexandre Herculano;Poema;José de Mesquita;Poema;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Francisco Rodriguez Marin;Cansaço;Poema;Coletânea;\N;\N;M
+1933;9;Não há;Não há;Mendes de Oliveira;Boca;Poema;Mendes de Oliveira;Poema;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Francisco Rodriguez Marin;Mensagem;Poema;Coletânea;\N;\N;M
+1933;9;Não há;Não há;Mendes de Oliveira;Chave de Ouro;Poema;Mendes de Oliveira;Poema;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Francisco Rodriguez Marin;Em segredo;Poema;Coletânea;\N;\N;M
+1933;9;Não há;Não há;Alphonsus de Guimaraens;Romance de dona Celeste;Poema;Alphonsus de Guimaraens;Poema;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Francisco Rodriguez Marin;Minha casa;Poema;Coletânea;\N;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Francisco Rodriguez Marin;Oração;Poema;Coletânea;\N;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Francisco Rodriguez Marin;A um bem efêmero;Poema;Coletânea;\N;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Francisco Rodriguez Marin;A calúnia;Poema;Coletânea;\N;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Francisco Rodriguez Marin;A um invejoso;Poema;Coletânea;\N;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Francisco Rodriguez Marin;Na primeira missa de D. Antônio Laorden;Poema;Coletânea;\N;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Francisco Rodriguez Marin;De longe;Poema;Coletânea;\N;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Francisco Rodriguez Marin;À porta do céu;Poema;Coletânea;\N;\N;M
+1933;10;Não tem;Não tem;Arthur França;Olhar indiscreto;Poema;Sonetos;Arthur França;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Francisco Rodriguez Marin;Anelos;Poema;Coletânea;\N;\N;M
+1933;10;Não tem;Não tem;Arthur França;A Virgem;Poema;Sonetos;Arthur França;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Lindolfo Gomes;Almas desiguais;Poema;Coletânea;\N;\N;M
+1933;10;Não tem;Não tem;Arthur França;Tradução de Henri Heine;Poema;Sonetos;Arthur França;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Lindolfo Gomes;Confissão;Poema;Coletânea;\N;\N;M
+1933;10;Não tem;Não tem;Arthur França;Anima mea;Poema;Sonetos;Arthur França;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Lindolfo Gomes;O esboroar do sonho;Poema;Coletânea;\N;\N;M
+1933;10;Não tem;Não tem;Arthur França;Ciúme;Poema;Sonetos;Arthur França;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Lindolfo Gomes;Ansiedades;Poema;Coletânea;\N;\N;M
+1933;10;Não tem;Não tem;Arthur França;A um poeta;Poema;Sonetos;Arthur França;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Lindolfo Gomes;A despedida do caboclo;Poema;Coletânea;\N;\N;M
+1933;10;Não tem;Não tem;Arthur França;Primavera;Poema;Sonetos;Arthur França;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Lindolfo Gomes;Ficção noturna;Poema;Coletânea;\N;\N;M
+1933;10;Não tem;Não tem;Arthur França;Esperança;Poema;Sonetos;Arthur França;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Lindolfo Gomes;Falando a um monge;Poema;Coletânea;\N;\N;M
+1933;10;Não tem;Não tem;Arthur França;Última ilusão;Poema;Sonetos;Arthur França;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Lindolfo Gomes;Serenidade;Poema;Coletânea;\N;\N;M
+1933;10;Não tem;Não tem;Arthur França;Evocação;Poema;Sonetos;Arthur França;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Lindolfo Gomes;Milagre de amor;Poema;Coletânea;\N;\N;M
+1933;10;Não tem;Não tem;Arthur França;Inverno;Poema;Sonetos;Arthur França;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Lindolfo Gomes;Memento;Poema;Coletânea;\N;\N;M
+1933;10;Não tem;Não tem;Arthur França;Extranha Flôr;Poema;Sonetos;Arthur França;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Lindolfo Gomes;Minha vida é assim;Poema;Coletânea;\N;\N;M
+1933;10;Não tem;Não tem;Arthur França;Combate Íntimo;Poema;Sonetos;Arthur França;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Lindolfo Gomes;Ao envelhecer;Poema;Coletânea;\N;\N;M
+1933;10;Não tem;Não tem;Arthur França;Riso Indiscreto;Poema;Sonetos;Arthur França;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Lindolfo Gomes;Soldadinho de chumbo;Poema;Coletânea;\N;\N;M
+1933;10;Não tem;Não tem;Arthur França;Bucólico;Poema;Sonetos;Arthur França;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Lindolfo Gomes;De Belém ao calvário;Poema;Coletânea;\N;\N;M
+1933;10;Não tem;Não tem;Arthur França;Tenebras;Poema;Sonetos;Arthur França;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Lindolfo Gomes;Em marcha;Poema;Coletânea;\N;\N;M
+1933;10;Não tem;Não tem;Arthur França;Quatorze anos;Poema;Sonetos;Arthur França;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Lindolfo Gomes;Covardia indomita;Poema;Coletânea;\N;\N;M
+1933;10;Não tem;Não tem;Oswaldo de Araújo;Nossa história;Poema;Sonetos;Oswaldo de Araújo;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Lindolfo Gomes;Convite bucólico;Poema;Coletânea;\N;\N;M
+1933;10;Não tem;Não tem;Oswaldo de Araújo;Epigrama epicurista;Poema;Sonetos;Oswaldo de Araújo;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Lindolfo Gomes;Oração à bandeira;Poema;Coletânea;\N;\N;M
+1933;10;Não tem;Não tem;Oswaldo de Araújo;A um Ipé florido;Poema;Sonetos;Oswaldo de Araújo;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Lindolfo Gomes;Criaturas ideais;Poema;Coletânea;\N;\N;M
+1933;10;Não tem;Não tem;Oswaldo de Araújo;Inania verba;Poema;Sonetos;Oswaldo de Araújo;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Lindolfo Gomes;Duas lembranças;Poema;Coletânea;\N;\N;M
+1933;10;Não tem;Não tem;Aníbal Matos;A Águia e o Corvo;Poema;Poesias;Anibal Mattos;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Lindolfo Gomes;A consoada;Poema;Coletânea;\N;\N;M
+1933;10;Não tem;Não tem;Aníbal Matos;Sol que mata;Poema;Poesias;Anibal Mattos;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Lindolfo Gomes;Boa vida;Poema;Coletânea;\N;\N;M
+1933;10;Não tem;Não tem;Aníbal Matos;Origem do Vagalume;Poema;Poesias;Anibal Mattos;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Lindolfo Gomes;Sentir recondito;Poema;Coletânea;\N;\N;M
+1933;10;Não tem;Não tem;Machado Sobrinho;Abelha morta;Poema;Sonetos;Machado Sobrinho;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Lindolfo Gomes;Sempre a saudade;Poema;Coletânea;\N;\N;M
+1933;10;Não tem;Não tem;J. Paixão;Na tua ausência;Poema;Poemas;J. Paixão;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Lindolfo Gomes;Na roça;Poema;Coletânea;\N;\N;M
+1933;10;Não tem;Não tem;Luiz de Oliveira;Norma Christã;Poema;Sonetos;Luiz de Oliveira;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Lindolfo Gomes;A um retabulo do Cristo;Poema;Coletânea;\N;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Lindolfo Gomes;Lágrima;Poema;Coletânea;\N;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Lindolfo Gomes;Falando ao mar;Poema;Coletânea;\N;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Lindolfo Gomes;Natal;Poema;Coletânea;\N;\N;M
+1935;16;Não há;45 Sonetos (Nova edição, com um apêndice de 30 sonetos originais);Lindolfo Gomes;Via-Sacra;Poema;Coletânea;\N;\N;M
+1933;11;não há;não há;Arthur França;A beira do tanque;Poema;Amor;Alegria;\N;M
+1933;11;não há;não há;Arthur França;Maio;Poema;\N;\N;\N;M
+1933;11;não há;não há;Arthur França;Soneto;Poema;\N;\N;\N;M
+1933;11;não há;não há;Arthur França;Réplica;Poema;\N;\N;\N;M
+1933;11;não há;não há;Arthur França;Viúva;Poema;\N;\N;\N;M
+1933;11;não há;não há;Arthur França;Surrexi;Poema;\N;\N;\N;M
+1933;11;não há;não há;Arthur França;Post mortem...;poema;\N;\N;\N;M
+1933;11;não há;não há;Arthur França;Triste!;poema;\N;\N;\N;M
+1933;11;não há;não há;Arthur França;Minha!;poema;\N;\N;\N;M
+1933;11;não há;não há;Arthur França;Presságios;poema;\N;\N;\N;M
+1933;11;não há;não há;Arthur França;Odilia;poema;\N;\N;\N;M
+1933;11;não há;não há;Arthur França;Ontem, hoje e amanhã;poema;\N;\N;\N;M
+1933;11;não há;não há;Arthur França;De Charles Nordier;poema;\N;\N;\N;M
+1933;11;não há;não há;Barão Homem de Melo;A minha nebulosa;Poema;Céo;Luz;\N;M
+\N;\N;\N;\N;Barão Homem de Melo; Prima lux;poema;\N;\N;\N;M
+1933;11;não há;não há;Horacio Guimarães;Os dois marinheiros;Poema;Marinheiro;Morte;\N;M
+1933;11;não há;não há;Belmiro Braga;A que eu bem sei, por Belmiro Braga;Poema;Livro;Folha;\N;M
+1933;11;não há;não há;Mendes de Oliveira;Lelia Porpurata;Poema;Flôr;Luz;\N;M
+1933;11;não há;não há;Mendes de Oliveira;Wanda Cerulea;Poema;\N;\N;\N;M
+1933;11;não há;não há;Mendes de Oliveira;Luciata Alba;Poema;\N;\N;\N;M
+1933;11;não há;não há;Mendes de Oliveira;Cattleya Warneri;Poema;\N;\N;\N;M
+1933;11;não há;não há;Mendes de Oliveira;Tricopilia suavis;Poema;\N;\N;\N;M
+1933;11;não há;não há;Mendes de Oliveira;Lux Coeli;Poema;\N;\N;\N;M
+1933;11;não há;não há;Arthur Lobo;Mãe;Poema;\N;\N;\N;M
+1933;11;não há;não há;Arthur Lobo;Estrella mystica;Poema;\N;\N;\N;M
+1933;11;não há;\N;Arthur Lobo;Risos no bosque;Poema;\N;\N;\N;M
+1933;11;não há;não há;Arthur Lobo;Mugitusque boum;Poema;Olhar;Branca ;\N;M
+1933;11;não há;não há;Ramos Arantes;Alma do verso;Poema;Sonho ;Alma;\N;M
+1933;11;não há;não há;Ramos Arantes;O perdão;poema;\N;\N;\N;M
+1933;11;não há;não há;Ramos Arantes;A dúvida;poema;\N;\N;\N;M
+1933;11;não há;não há;Ramos Arantes;O filho do coveiro;poema;\N;\N;\N;M
+1933;11;não há;não há;Ramos Arantes;Espírito revel;poema;\N;\N;\N;M
+1933;11;não há;não há;Ramos Arantes;Estátua de gelo;poema;\N;\N;\N;M
+1933;11;não há;não há;Ramos Arantes;Cruz da saudade;poema;\N;\N;\N;M
+1953;17;Não tem;Colaborações;Giosuè Carducci;Il Bove;Poema;paz;\N;\N;M
+1953;17;Não tem;Colaborações;Giosuè Carducci;O Boi, tradução de Arduíno Bolivar;Poema;paz;\N;\N;M
+1953;17;Não tem;Colaborações;François de Malherbe;Consolação ao Senhor du Périer;Poema;morte;\N;\N;M
+1953;17;Não tem;Colaborações;Abílio Barreto;Minha mãe;Poema;luto;\N;\N;M
+1934;12;1ª parte - Comemorativo do 4º Cenetenário de José de Anchieta;Não tem;José de Anchieta;Poema;Poema;Soneto;\N;\N;M
+1934;14;não há;não há;Aníbal Matos;O espectro e o cavalleiro poeta;Poema;cavalleiro;amor;\N;M
+1934;14;não há;não há;Pedro Saturnino;A cruz que floresceu;Poema;sofrimento;melancolia;\N;M
+1925;3;não há;não há;Agripa de Vasconcelos;Nós e os Caminhos do Destino pelo acadêmico Agripa de Vasconcellos;Poema;Agripa de Vasconcelos;poema;\N;M
+1934;14;não há;não há;Machado Sobrinho;Relevos esheticos;Poema;amor;atração;\N;M
+1925;3;não há;não há;Luiz de Oliveira;Anjo da Guarda pelo acadêmico Luiz de Oliveira;Poema;anjo da guarda;poema;\N;M
+1934;14;não há;não há;José de Mesquita;Por Matto Grosso unido;Poema;Mato Grosso;expedição bandeirante;\N;M
+1925;3;não há;não há;Brant Horta;Último adeus pelo acadêmico Brant Horta;Poema;adeus;poema;\N;M
+1934;14;não há;não há;Alphonsus de Guimaraens;Noiva;Poema;noiva;saudade;\N;M
+1925;3;não há;não há;J. Paixão;O orvalho e a lágrima pelo acadêmico J. Paixão;Poema;Orvalho;lágrima;\N;M
+1934;14;não há;não há;Agripa de Vasconcelos;Abat-jour escarlate;Poema;doença;sofrimento;\N;M
+1925;3;não há;não há;Franklin Magalhães;O Ipê pelo acadêmico Franklin Magalhães;Poema;ipê;poema;\N;M
+1934;14;não há;não há;Carlos Chiacchio;Uma pagina de sonetos;Poema;desejo;paixão;\N;M
+1925;3;não há;não há;J. Paixão;A Filhinha Maria José pelo acadêmico J. Paixão;Poema;filha Maria José;poema;\N;M
+1934;14;não há;Versos de Arthur França;Arthur França;Flor bendita;Poema;amor;vivências;\N;M
+1934;14;não há;Versos de Arthur França;Arthur França;Quinta feira;Poema;\N;\N;\N;M
+1934;14;não há;Versos de Arthur França;Arthur França;As estrellas;Poema;\N;\N;\N;M
+1934;14;não há;Versos de Arthur França;Arthur França;Eu sou republicano, odeio a fidalguia;Poema;\N;\N;\N;M
+1954;20;Não tem;Colaborações;Honório Armond;Cabala - Maledictio;Poema;maldição;traição;\N;M
+1934;14;não há;Versos de Arthur França;Arthur França;Versos a alguém;Poema;\N;\N;\N;M
+1954;20;Não tem;Colaborações;Honório Armond;Cabala - Benedictio;Poema;sonho;esperança;\N;M
+1934;14;não há;Versos de Arthur França;Arthur França;Supremo apello;Poema;\N;\N;\N;M
+1954;20;Não tem;Colaborações;Djalma Andrade;Ato de caridade;Poema;compaixão;Nossa Senhora;\N;M
+1934;14;não há;Versos de Arthur França;Arthur França;Oh tempora! Oh mores!;Poema;\N;\N;\N;M
+1954;20;Não tem;Colaborações;Djalma Andrade;Mater admirabilis;Poema;sorriso;Nossa Senhora;\N;M
+1934;14;não há;Versos de Arthur França;Arthur França;No trespasse de Stella;Poema;\N;\N;\N;M
+1954;20;Não tem;Colaborações;Arduíno Bolívar;Versão ao italiano por Arduíno Bolívar: Atto di carittà;Poema;compassione;La Santa Madre;\N;M
+1934;14;não há;Versos de Arthur França;Arthur França;Cruz e Souza;Poema;\N;\N;\N;M
+1954;20;Não tem;Colaborações;Arduíno Bolívar;Versão ao italiano por Arduíno Bolívar: Matter admirabilis;Poema;sorriso;La Santa Madre;\N;M
+1934;14;não há;Versos de Arthur França;Arthur França;O vaso partido;Poema;\N;\N;\N;M
+1954;20;Não tem;Colaborações;Plínio Mota;O João-de-barro;Poema;Ave;João-de-barro;\N;M
+1934;14;não há;Versos de Arthur França;Arthur França;De Henri Heine;Poema;\N;\N;\N;M
+1954;20;Não tem;Colaborações;Martins de Oliveira;O Banquete da Glória;Poema;banquetes;conquistadores;\N;M
+1934;14;não há;Versos de Arthur França;Arthur França;De François Cocquard;Poema;\N;\N;\N;M
+1954;20;Não tem;Asteriscos;Bento Ernesto Júnior;O seu a seu dono - Quadrinha;Poema;empréstimo;tradução;\N;M
+1934;14;não há;Versos de Arthur França;Arthur França;Os olhos;Poema;\N;\N;\N;M
+1954;20;Não tem;Asteriscos;José Clemente;"O Poeta ""Brioso""";Poema;Honório Armond;beleza;\N;M
+1934;14;não há;Versos de Arthur França;Arthur França;Solemnta verba;Poema;\N;\N;\N;M
+1954;20;Não tem;Asteriscos;José Clemente;Auto-cromo;Poema;sargento;\N;\N;M
+1934;14;não há;Versos de Arthur França;Arthur França;Vita nuova;Poema;\N;\N;\N;M
+1934;14;não há;Versos de Arthur França;Arthur França;Platonismo;Poema;\N;\N;\N;M
+1954;20;Não tem;Asteriscos;Carlos Drummond de Andrade ;O impossível;poema;Moacir Andrade;jornalista;\N;M
+1934;14;não há;Versos de Arthur França;Arthur França;Unico remdio;Poema;\N;\N;\N;M
+1954;20;não tem;Asteriscos;Moacir Andrade;Trinta anos a 'lambões' eu bem servi;poema;Moacir Andrade;\N;\N;M
+1934;14;não há;Versos de Arthur França;Arthur França;Remorso;Poema;\N;\N;\N;M
+1934;14;não há;Versos de Arthur França;Arthur França;A uns pe's (primeira página do livro Hostias);Poema;\N;\N;\N;M
+1934;14;não há;Versos de Arthur França;Arthur França;Quadras;Poema;\N;\N;\N;M
+1934;14;não há;Versos de Arthur França;Arthur França;Minha senhora;Poema;\N;\N;\N;M
+1934;14;não há;Versos de Arthur França;Arthur França;Presago;Poema;\N;\N;\N;M
+1955-1959;21;Não tem;Páginas antigas;Arthur Lobo ;Chapelim Vermelho;Poema;Chapelim Vermelho;coragem;\N;M
+1928;5;não há;não há;Abilio Barreto ;Natal de um triste;Poema;Natal;noite;\N;M
+1955-1959;21;Não tem;Páginas antigas;Mário de Lima;A formiga;Poema;formiga;homem;\N;M
+1935;16;Não há;Poesias de Mendes de Oliveira;Mendes de Oliveira;Maio;Poema;Mendes de Oliveira;\N;\N;M
+1935;16;Não há;Poesias de Mendes de Oliveira;Mendes de Oliveira;Mãos;Poema;Mendes de Oliveira;\N;\N;M
+1935;16;Não há;Poesias de Mendes de Oliveira;Mendes de Oliveira;Boca;Poema;Mendes de Oliveira;\N;\N;M
+1935;16;Não há;Poesias de Mendes de Oliveira;Mendes de Oliveira;Paradoxal;Poema;Mendes de Oliveira;\N;\N;M
+1935;16;Não há;Poesias de Mendes de Oliveira;Mendes de Oliveira;O Corvo;Poema;Mendes de Oliveira;\N;\N;M
+1935;16;Não há;Poesias de Mendes de Oliveira;Mendes de Oliveira;Velho Sino;Poema;Mendes de Oliveira;\N;\N;M
+1935;16;Não há;Poesias de Mendes de Oliveira;Mendes de Oliveira;Duas Noites;Poema;Mendes de Oliveira;\N;\N;M
+1935;16;Não há;Poesias de Mendes de Oliveira;Mendes de Oliveira;Lenda Escosseza;Poema;Mendes de Oliveira;\N;\N;M
+1935;16;Não há;Poesias de Mendes de Oliveira;Mendes de Oliveira;Coração Errante;Poema;Mendes de Oliveira;\N;\N;M
+1935;16;Não há;Poesias de Mendes de Oliveira;Mendes de Oliveira;Sapucaí abaixo;Poema;Mendes de Oliveira;\N;\N;M
+1935;16;Não há;Poesias de Mendes de Oliveira;Mendes de Oliveira;Anjos em prece;Poema;Mendes de Oliveira;\N;\N;M
+1935;16;Não há;Poesias de Mendes de Oliveira;Mendes de Oliveira;Flores mortas;Poema;Mendes de Oliveira;\N;\N;M
+1935;16;Não há;Poesias de Mendes de Oliveira;Mendes de Oliveira;Visão final;Poema;Mendes de Oliveira;\N;\N;M
+1935;16;Não há;Poesias de Mendes de Oliveira;Mendes de Oliveira;Ilusões fugindo;Poema;Mendes de Oliveira;\N;\N;M
+1935;16;Não há;Versos de Arthur França;Arthur França;À minha mãe;Poema;Coletânea;\N;\N;M
+1935;16;Não há;Versos de Arthur França;Arthur França;A alguém;Poema;Coletânea;\N;\N;M
+1932;6;Não há;Não há;Almeida Cousin;Curupira;Poema;Curupira;Poema;\N;M
+1935;16;Não há;Versos de Arthur França;Arthur França;Sub noite;Poema;Coletânea;\N;\N;M
+1932;6;Não há;Não há;Almeida Cousin;O urutáu;Poema;Urutau;Poema;\N;M
+1935;16;Não há;Versos de Arthur França;Arthur França;Supremo adeus;Poema;Coletânea;\N;\N;M
+1932;6;Não há;Não há;Abilio Barreto;Felicidade desfeita;Poema;Abilio Barreto;Poema;\N;M
+1935;16;Não há;Versos de Arthur França;Arthur França;Matinal;Poema;Coletânea;\N;\N;M
+1932;6;Não há;Não há;Abilio Barreto;Última esperança;Poema;Abilio Barreto;Poema;\N;M
+1935;16;Não há;Versos de Arthur França;Arthur França;Problema;Poema;Coletânea;\N;\N;M
+1932;6;Não há;Não há;Abilio Barreto;Segundas núpcias;Poema;Abilio Barreto;Poema;\N;M
+1935;16;Não há;Versos de Arthur França;Arthur França;Quadras;Poema;Coletânea;\N;\N;M
+1932;6;Não há;Não há;Abilio Barreto;Ser poeta;Poema;Abilio Barreto;Poema;\N;M
+1935;16;Não há;Versos de Arthur França;Arthur França;Passeio matinal;Poema;Coletânea;\N;\N;M
+1932;6;Não há;Não há;Plínio Mota;Victoria Regia;Poema;Plínio Mota;Poema;\N;M
+1935;16;Não há;Versos de Arthur França;Arthur França;Platanismo;Poema;Coletânea;\N;\N;M
+1932;6;Não há;Não há;Almeida Cousin;O ouro do Tripuhy;Poema;Almeida Cousin;Poema;\N;M
+1935;16;Não há;Versos de Arthur França;Arthur França;Outono;Poema;Coletânea;\N;\N;M
+1932;6;Não há;Não há;Arthur França;Olhos;Poema;Arthur França;Poema;\N;M
+1935;16;Não há;Versos de Arthur França;Arthur França;Em pleno arrufo;Poema;Coletânea;\N;\N;M
+1932;6;Não há;Não há;Arthur França;Voz inefável;Poema;Arthur França;Poema;\N;M
+1935;16;Não há;Versos de Arthur França;Arthur França;Ninon;Poema;Coletânea;\N;\N;M
+1932;6;Não há;Não há;Arthur França;A fé;Poema;Arthur França;Poema;\N;M
+1935;16;Não há;Versos de Arthur França;Arthur França;O Poema;Poema;Coletânea;\N;\N;M
+1932;6;Não há;Não há;Arthur França;Alma Branca;Poema;Arthur França;Poema;\N;M
+1935;16;Não há;Versos de Arthur França;Arthur França;Noite;Poema;Coletânea;\N;\N;M
+1932;6;Não há;Não há;Arthur França;A ti.....;Poema;Arthur França;Poema;\N;M
+1935;16;Não há;Versos de Arthur França;Arthur França;A Mendiga;Poema;Coletânea;\N;\N;M
+1932;6;Não há;Não há;Arthur França;Epithalamio;Poema;Arthur França;Poema;\N;M
+1935;16;Não há;Versos de Arthur França;Arthur França;Meio dia;Poema;Coletânea;\N;\N;M
+1932;6;Não há;Não há;Arthur França;Triumphal;Poema;Arthur França;Poema;\N;M
+1935;16;Não há;Versos de Arthur França;Arthur França;Tu, só tu!;Poema;Coletânea;\N;\N;M
+1932;6;Não há;Não há;Julinda Alvim;Soneto;Poema;Julinda Alvin;Poema;\N;F
+1935;16;Não há;Versos de Arthur França;Arthur França;Mãe;Poema;Coletânea;\N;\N;M
+1932;6;Não há;Não há;Newton Belleza;Belo Horizonte;Poema;Newton Belleza;Poema;\N;M
+1935;16;Não há;Versos de Arthur França;Arthur França;Lyrio de lágrimas;Poema;Coletânea;\N;\N;M
+1932;6;Não há;Não há;Newton Belleza;Pregando no deserto;Poema;Newton Belleza;Poema;\N;M
+1935;16;Não há;Versos de Arthur França;Arthur França;Jesus!;Poema;Coletânea;\N;\N;M
+1932;6;Não há;Não há;Plínio Mota;Terra Mineira;Poema;Plínio Mota;Poema;\N;M
+1935;16;Não há;Versos de Arthur França;Arthur França;Os Dias;Poema;Coletânea;\N;\N;M
+1932;6;Não há;Não há;Cleomenes Campos;Eu tinha um beijo para sua boca;Poema;Cleomenes Campos;Poema;\N;M
+1935;16;Não há;Versos de Arthur França;Arthur França;Forget me not;Poema;Coletânea;\N;\N;M
+1932;6;Não há;Não há;Cleomenes Campos;Canção tímida;Poema;Cleomenes Campos;Poema;\N;M
+1935;16;Não há;Versos de Arthur França;Arthur França;Sua voz;Poema;Coletânea;\N;\N;M
+1932;6;Não há;Não há;Renato Travassos;Harmonia Dolorosa;Poema;Renato Travassos;Poema;\N;M
+1935;16;Não há;Versos de Arthur França;Arthur França;Frio;Poema;Coletânea;\N;\N;M
+1932;6;Não há;Não há;Gastón Figueira;Encantamiento;Poema;Gastón Figueira;Poema;\N;M
+1935;16;Não há;Versos de Arthur França;Arthur França;A uns pés;Poema;Coletânea;\N;\N;M
+1932;6;Não há;Não há;Abilio Machado;A lágrima;Poema;Abilio Machado;Poema;\N;M
+1935;16;Não há;Versos de Arthur França;Arthur França;Et nunc et sempre;Poema;Coletânea;\N;\N;M
+1932;6;Não há;Não há;Abilio Machado;Trovas;Poema;Abilio Machado;Poema;\N;M
+1935;16;Não há;Versos de Arthur França;Arthur França;Agosto;Poema;Coletânea;\N;\N;M
+1932;6;Não há;Não há;Julinda Alvim;A minha mãe;Poema;Julinda Alvim;Poema;\N;F
+1935;16;Não há;Versos de Arthur França;Arthur França;De madrugada;Poema;Coletânea;\N;\N;M
+1932;6;Não há;Não há;Julinda Alvim;O carro de bois;Poema;Julinda Alvim;Poema;\N;F
+1935;16;Não há;Versos de Arthur França;Arthur França;Ao dia;Poema;Coletânea;\N;\N;M
+1932;6;Não há;Relíquias de Ouro Preto;Mario de Lima;"Soneto de Mario de Lima, do ""Medalhas e Brazões""";Poema;Mario de Lima;Sonetos;\N;M
+1935;16;Não há;Versos de Arthur França;Arthur França;Canta!;Poema;Coletânea;\N;\N;M
+1935;16;Não há;Versos de Arthur França;Arthur França;Nossa Senhora da Conceição;Poema;Coletânea;\N;\N;M
+1953;17;Não tem;Não tem;Equipe - Academia Mineira de Letras (AML);Nosso reaparecimento;Prefácio;falta de recursos;\N;\N;M
+1934;13;Commemorativo do 4.º Centenário de José de Anchieta ;não há;Lopes Rodrigues;Prefácio;Prefácio;Anchieta;jesuita;\N;M
+1926;4;não há;não há;Comissão de Redação Final: Carlos Góes, relator / Avelino Foscolo, secretário geral interino / Paulo Brandão, 1º secretário interino;Regimento Interno;Regimento;Definições;Estatuto;\N;M
+1934;12;1ª parte - Comemorativo do 4º Cenetenário de José de Anchieta;Escritos e apontamentos sobre José de Anchieta ;Aníbal Matos;Um documento mineiro sobre a beatificação do padre Anchieta;Registro de pastorais;Documento histórico;\N;\N;M
+1933;8;não há;não há;Aníbal Matos;Relatorio do presidente da Academia;Relatório;Academia;letras;\N;M
+1922;1;não há;não há;Mario de Lima ;Relatório do presidente da academia, Mario de Lima;Relatório;relatório ;AML;\N;M
+1925;3;não há;não há;Noraldino Lima;Relatório do presidente Noraldino Lima no biennio de 1923-1924;Relatório;relatório;AML;\N;M
+1928;5;não há;não há;Nelson de Senna;Notas para a Historia da Academia Mineira de Letras;Relatório;Academia Mineira de Letras;academicos;\N;M
+1928;5;não há;não há;Carlos Góes;Relatorio de administração Carlos Góes;Relatório;biennio;mandato;\N;M
+1933;8;não há;não há;Martins de Almeida;Na seara do belo;Resenha;arte;belo;\N;M
+1953;17;Não tem;Recepções e Homenagens;Equipe - Academia Mineira de Letras (AML);O almoço;Resenha;Afonso Pena Júnior;\N;\N;M
+1936;18;Apontamentos para a História das Artes, das Sciencias e das Letras de Minas Gerais;Estudo de Paleontologia e Pre-Historia;Arnaldo Cathord;Estudo de Paleontologia e Pre-Historia;Resenha;Anibal Mattos;\N;\N;M
+1954;20;Não tem;Colaborações;João Dornas Filho;Um amigo de Fradique Mendes;Resenha;Júlio Verim;Fradique Mendes;\N;M
+1955-1959;21;Não tem;Notas bibliográficas;Martins de Oliveira;Pedrinho tanoeiro;Resenha;Gonçalo do Amaranto;Pedrinho tanoeiro;\N;M
+1955-1959;21;Não tem;Notas bibliográficas;Maria José de Queiroz;Duas novelas românticas sul-americanas: Maria e Amalia;Resenha;novelas românticas ;Maria e Amalia;\N;M
+1959-1964;22/01/2022 00:00;Não tem;Não tem;J. Oswaldo de Araujo;A correção na frase;Resenha;Aires da Mata Machado Filho;A correção na frase;\N;M
+1959-1964;22/01/2022 00:00;Não tem;Não tem;João Dornas Filho;Uns versos de Guerra Junqueiro;Resenha;poemas;Guerra Junqueiro;\N;M
+1933;8;não há;não há;Aníbal Matos;Um grande amor ;Romance;Doly;Paulo;\N;M
