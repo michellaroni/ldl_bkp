@@ -1,6 +1,12 @@
 # Created by https://www.toptal.com/developers/gitignore/api/django
 # Edit at https://www.toptal.com/developers/gitignore?templates=django
 
+# MICHELSON:
+# Os arquivos SQLite não sobem
+# O arquivo setup/settings.py não sobe
+# A arquivo .env não sobe
+# A pasta venv/ não sobe
+
 ### Django ###
 *.log
 *.pot
